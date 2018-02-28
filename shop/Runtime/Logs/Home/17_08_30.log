@@ -1,0 +1,3 @@
+[ 2017-08-30T14:44:25+08:00 ] 127.0.0.1 /shop/index.php//index/index
+ERR: Syntax Error in template "D:/PHP/wamp/wamp64/www/itcast/shop/Home/View\Index\index.html"  on line 405 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+

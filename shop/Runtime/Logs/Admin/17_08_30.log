@@ -1,0 +1,54 @@
+[ 2017-08-30T11:12:42+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001334s ]
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;%20?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eadmin_p.gif
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eheader_left.jpg
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;%20?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eheader_right.jpg
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_CSS_URL;%20?%3Eadmin.css
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Emenu_icon.gif
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eheader_bg.jpg
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2017-08-30T22:09:59+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/%3C?php
+ERR: 非法操作:
+
+[ 2017-08-30T22:14:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/__MODULE__/Goods/showlist
+ERR: 非法操作:__MODULE__
+
+[ 2017-08-30T22:14:33+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/__MODULE__/Goods/showlist
+ERR: 非法操作:__MODULE__
+
+[ 2017-08-30T23:21:38+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2017-08-30T23:21:42+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/xiugai
+ERR: 参数错误或者未定义:goods_id
+
+[ 2017-08-30T23:36:39+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/xiugai.html
+ERR: 参数错误或者未定义:goods_id
+

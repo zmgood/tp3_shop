@@ -1,0 +1,6 @@
+[ 2017-09-02T20:08:43+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/tianjia
+ERR: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'goods_price' at row 1
+
+[ 2017-09-02T20:11:13+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/tianjia
+ERR: SQLSTATE[HY000]: General error: 1366 Incorrect decimal value: '' for column 'goods_price' at row 1
+

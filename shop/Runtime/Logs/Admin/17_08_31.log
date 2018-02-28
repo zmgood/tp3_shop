@@ -1,0 +1,6 @@
+[ 2017-08-31T00:14:12+08:00 ] 127.0.0.1 /shop/index.php/Admin/Goods/del
+ERR: 参数错误或者未定义:goods_id
+
+[ 2017-08-31T16:45:49+08:00 ] 127.0.0.1 /shop/index.php/Admin/User/resgister
+ERR: 无法加载控制器:User
+
